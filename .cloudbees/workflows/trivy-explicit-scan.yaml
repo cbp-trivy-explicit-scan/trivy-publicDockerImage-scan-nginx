@@ -21,3 +21,4 @@ jobs:
         uses: cloudbees-io/trivy-plugin@v2
         with:
           binary-tar-path: ./nginx.tar
+          
